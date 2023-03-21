@@ -11,7 +11,7 @@ The DJ audio player application built using JUCE C++ provides a comprehensive pl
 - User-friendly interface
 
 ## Loading the Project
-To get started with the DJ audio player application, download the JUCE C++ framework and open the Projucer file or load it from the Projucer Application. Here's how to load the project from Projucer application
+To get started with the DJ audio player application, [download](https://juce.com/download/) the JUCE C++ framework and open the Projucer file or load it from the Projucer Application. Here's how to load the project from Projucer application
 
 - Launch the Projucer application.
 - In Projucer, select "Open an existing project" from the File menu.
