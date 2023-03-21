@@ -1,6 +1,8 @@
 # DJ Audio Player Application
 The DJ audio player application built using JUCE C++ provides a comprehensive platform for music enthusiasts to play, mix and create music on their computers. This application is designed to help users mix music effortlessly and effectively with its two deck feature that allows users to play two tracks simultaneously, as well as its easy-to-use music library for loading and browsing tracks.
 
+<img src="demo.png" alt="application running demo">
+
 ## Features
 - Two deck audio player
 - Music library for importing and browsing tracks
